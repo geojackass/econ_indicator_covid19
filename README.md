@@ -1,6 +1,6 @@
 ## For the covid19 SpaceAppsChallenge
 
-![night light](img/night_light.png "night_light")
+[![night lights](http://img.youtube.com/vi/wWfDSM0WZlM/0.jpg)](http://www.youtube.com/watch?v=wWfDSM0WZlM "night lights")
 
 ## SpaceAppsChallenge Official pages
 - https://www.spaceappschallenge.org/
