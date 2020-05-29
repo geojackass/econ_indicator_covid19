@@ -15,7 +15,7 @@
 ## Summary
 It has become clear that the intensity of night light acquired by satellites is correlated with social and economic indicators such as gross domestic product, employment, population, and education in each country. In this project, I first describe the method of calculating the night light intensity in Japan by prefecture and city. Based on the results of the various analyses, we are predicting for economic damage caused by corona using Night Light.
 
-### Released under the MIT license
+## Released under the MIT license
 ##### Copyright (c) 2020 Shoichi Otomo [@geojackass](https://twitter.com/geojackass)
 
 - read under the MIT LICENSE  
