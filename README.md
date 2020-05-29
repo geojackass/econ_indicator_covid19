@@ -8,7 +8,7 @@
 ## Challenge theme is『An Integrated Assessment』
 - https://covid19.spaceappschallenge.org/challenges/covid-challenges/integrated-assessment/details
 
-## Title:Measuring of economic damage caused by COVID-19 using Night Light
+## Measuring of economic damage caused by COVID-19 using Night Light(we are here)
 - https://covid19.spaceappschallenge.org/challenges/covid-challenges/integrated-assessment/teams/geojackass-1/project
 
 ## Summary
